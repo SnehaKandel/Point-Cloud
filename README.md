@@ -1,4 +1,4 @@
-# 🏛️ 3D_PointCloudProject
+# 🏛️ PointCloudProject
 
 **3D_PointCloudProject** is a deep-learning-based system designed to generate accurate 3D models from 2D image sequences. The project focuses on **cultural heritage conservation**, providing a digital pipeline to preserve monuments and artifacts using modern computer vision techniques.
 
